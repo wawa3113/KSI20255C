@@ -1,1 +1,1 @@
-<?php echo "index.php - KoneksiDatabase branch"; ?>
+<?php echo "KSI2025C - Halaman Utama"; ?>
