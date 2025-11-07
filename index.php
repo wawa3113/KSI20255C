@@ -1,3 +1,3 @@
 <?php
-echo "KSI2025C - Koneksi Database";
+echo "KSI2025C - Tambah Data";
 ?>
