@@ -1,1 +1,1 @@
-<?php echo "index.php - main branch"; ?>
+<?php echo "index.php - KoneksiDatabase branch"; ?>
